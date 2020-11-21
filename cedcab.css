@@ -1,0 +1,129 @@
+body {
+  
+    
+}
+
+.newsection {
+   background-image: url('menphone.jpg');
+   
+    background-repeat:no-repeat;
+}
+
+.section2 {
+   
+   
+    
+    position: absolute;
+    
+    
+
+    
+}
+
+
+
+.section2a {
+    
+    
+    
+   color:white;
+  
+   position: relative;
+  
+   background: none;
+
+   
+   
+   
+   
+    
+}
+
+
+
+.section2b {
+    width:100%;
+    position: absolute;
+     
+     
+ }
+
+ .first-textbox {
+    width:300px;
+    height:40px;
+    border-radius:10px;
+    padding:5px;
+    margin-top:50px;
+    margin-bottom:10px;
+ }
+
+ .textboxes {
+    width:300px;
+    height:40px;
+    border-radius:10px;
+    padding:5px;
+    margin-bottom:10px;
+ }
+
+ .calculate-fare-button {
+    background-color:#d1e231;
+    color:black;
+    width:300px;
+    height:36px;
+    padding:5px;
+    margin-bottom:10px;
+ }
+
+ .city-taxi-button {
+    background-color:#d1e231;
+    color:black;
+    width:100px;
+    border-radius:10px;
+    height:35px;
+ }
+
+ .bg-image {
+    position: absolute;
+    opacity:1;
+    z-index:90;
+    height:680px;
+    width:100%;
+ }
+
+
+ .btn1 {
+    background-color:#9acd32;
+    color:black;
+    width:350px;
+    border-radius:2px;
+    height:36px;
+    padding:5px;
+    margin-bottom:10px;
+ }
+ label{
+     color: grey;
+     margin: auto;
+     padding: auto;
+    
+ }
+
+ .drpdown {
+   -webkit-appearance: none;
+ }
+
+ .clor {
+    background-color: grey;
+ }
+
+ .button2 {
+
+    margin-right: 0px;
+    
+    border: none;
+    color: white;
+    border-radius: 20px;
+    width:150px;
+    height:40px;
+
+ }
+    
